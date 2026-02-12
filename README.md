@@ -84,48 +84,36 @@ Each landmark provides x, y, z coordinates and visibility confidence.
 
 
 ---
-Installation
+### Installation
+```bash
 pip install opencv-python mediapipe numpy
-Run the Project
+```
+### Run the Project
+```bash
 python exercise_detection.py
-Debug Information Displayed
+```
+### Debug Information Displayed
+- Elbow Angle
+- Body Angle
+- Knee Angle
+- View Type (Side / Front / Back)
+- Pushup & Squat Counters
+- Processing Progress (%)
 
-Elbow Angle
+### Applications
+- AI Personal Trainer Systems
+- Fitness Analytics Platforms
+- Computer Vision Portfolio Projects
+- Human Motion Analysis
+- Health & Sports Monitoring
 
-Body Angle
+### Future Improvements
+- Form correctness scoring
+- Additional exercises (Lunges, Plank, Jump Squats)
+- Real-time webcam version
+- Streamlit web interface
+= ML-based automatic exercise classification
 
-Knee Angle
-
-View Type (Side / Front / Back)
-
-Pushup & Squat Counters
-
-Processing Progress (%)
-
-Applications
-
-AI Personal Trainer Systems
-
-Fitness Analytics Platforms
-
-Computer Vision Portfolio Projects
-
-Human Motion Analysis
-
-Health & Sports Monitoring
-
-Future Improvements
-
-Form correctness scoring
-
-Additional exercises (Lunges, Plank, Jump Squats)
-
-Real-time webcam version
-
-Streamlit web interface
-
-ML-based automatic exercise classification
-
-Conclusion
+### Conclusion
 
 This project demonstrates practical implementation of pose estimation, multi-view adaptive logic, and rule-based motion analysis for real-time exercise tracking. It serves as a strong portfolio project for computer vision and AI-based fitness applications.
