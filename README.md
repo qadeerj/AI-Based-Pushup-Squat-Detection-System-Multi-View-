@@ -1,6 +1,6 @@
 ---
-title: AI Multi-View Pushup & Squat Detection System
-author: Muhammad Qadeer
+Title: AI Multi-View Pushup & Squat Detection System
+Author: Muhammad Qadeer
 Date: 12/2/2026
 ---
 
