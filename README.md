@@ -1,7 +1,7 @@
 ---
-title: "AI Multi-View Pushup & Squat Detection System"
-author: "Your Name"
-output: github_document
+title: AI Multi-View Pushup & Squat Detection System
+author: Muhammad Qadeer
+Date: 12/2/2026
 ---
 
 
